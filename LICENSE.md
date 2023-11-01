@@ -1,3 +1,5 @@
+Copyright (c) 2023 Swiftmade OÜ https://github.com/swiftmade <hello@swiftmade.co>
+
 Copyright (c) 2013-2016 Adrian Philipp, https://github.com/adri <mail@adrian-philipp.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
